@@ -20,7 +20,7 @@
 |ツイベガ君 ||| [@tuibegakun](https://twitter.com/tuibegakun) | JavaScript NEM |
 |Yuichi Matsui ||| [@Yuichi_0427](https://twitter.com/Yuichi_0427)| Python |
 |HitomiTakeda ||| [@hitomi_takeda](https://twitter.com/hitomi_takeda)| Python DeepLearning |
-|Ebio |||||
+|Ebio ||||Android Java|
 ___
 
 
