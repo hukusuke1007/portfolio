@@ -7,7 +7,7 @@
 | メンバー | 記事 | Git | Twitter | もくもく実績 |
 |:---|:---|:---|:---|:---|
 |shohei |[blog](http://hobbydevelop.info/)<br>[qiita](https://qiita.com/hukusuke1007)<br> | [GitHub](https://github.com/hukusuke1007)| [@hobbydevelop](https://twitter.com/hobbydevelop) | Swift Vue.js TypeScript Firebase NEM Ethereum |
-|まつもとまさかず |[qiita](https://qiita.com/kazumasamatsumo)<br> | [GitHub](https://github.com/kazumasamatsumoto)| [@kazumasamatsumo](https://twitter.com/kazumasamatsumo) | Vue.js NEM |
+|まつもとかづまさ |[qiita](https://qiita.com/kazumasamatsumo)<br> | [GitHub](https://github.com/kazumasamatsumoto)| [@kazumasamatsumo](https://twitter.com/kazumasamatsumo) | Vue.js NEM |
 |りゅーた |[blog](https://ryuta46.com/)<br> [qiita](https://qiita.com/y-sakata)| [GitHub](https://github.com/ryuta46)| [@ryuta461](https://twitter.com/ryuta461) | Swift NEM |
 |まつしん |[blog](https://matsushin11.com/)<br> | | [@matsushin11](https://twitter.com/matsushin11) | Ruby on Rails NEM |
 |ゼキ(yoshimoto) | [qiita](https://qiita.com/zeki84)|| [@zekilog](https://twitter.com/zekilog) | Ruby on Rails |
