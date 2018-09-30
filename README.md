@@ -9,7 +9,7 @@
 |shohei |[Blog](http://hobbydevelop.info/)<br>[Qiita](https://qiita.com/hukusuke1007)<br> | [GitHub](https://github.com/hukusuke1007)| [@hobbydevelop](https://twitter.com/hobbydevelop) | Swift Vue.js TypeScript Firebase NEM Ethereum |
 |まつもとかづまさ |[Qiita](https://qiita.com/kazumasamatsumo)<br> | [GitHub](https://github.com/kazumasamatsumoto)| [@kazumasamatsumo](https://twitter.com/kazumasamatsumo) | Vue.js NEM |
 |りゅーた |[Blog](https://ryuta46.com/)<br> [Qiita](https://qiita.com/y-sakata)| [GitHub](https://github.com/ryuta46)| [@ryuta461](https://twitter.com/ryuta461) | Swift NEM |
-|まつしん |[Blog](https://matsushin11.com/)<br> | | [@matsushin11](https://twitter.com/matsushin11) | Ruby on Rails NEM |
+|まつしん |[Blog](https://matsushin11.com/)<br> [Qiita](https://qiita.com/Matsushin) | [Github](https://github.com/Matsushin)| [@matsushin11](https://twitter.com/matsushin11) | Ruby on Rails Vue.js Nuxt.js TypeScript NEM Ethereum |
 |ゼキ(yoshimoto) | [Qiita](https://qiita.com/zeki84)|| [@zekilog](https://twitter.com/zekilog) | Ruby on Rails |
 |生粋のねむらー | [Blog](http://www.lovenem.site/)|| [@lovenem_Japan](https://twitter.com/lovenem_Japan) | Python node.js Alexa Clova NEM |
 |morifuji koudai |[Blog](https://morimori-kochan.hatenablog.com/)|| [@marooon88](https://twitter.com/marooon88)| Vue.js JavaScript PHP |
