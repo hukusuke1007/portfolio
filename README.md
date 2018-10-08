@@ -15,8 +15,8 @@
 |ゼキ(yoshimoto) | [Qiita](https://qiita.com/zeki84)|| [@zekilog](https://twitter.com/zekilog) | Ruby on Rails |
 |生粋のねむらー | [Blog](http://www.lovenem.site/)|| [@lovenem_Japan](https://twitter.com/lovenem_Japan) | Python node.js Alexa Clova NEM |
 |morifuji koudai |[Blog](https://morimori-kochan.hatenablog.com/)|| [@marooon88](https://twitter.com/marooon88)| Vue.js JavaScript PHP |
-|Nishida ||[GitHub](https://github.com/dossy007)||Ruby on Rails JavaScript|
 |やまたに | | [GitHub](https://github.com/yamatani2)| [@yamatani2](https://twitter.com/yamakume2) | Ruby on Rails |
+|Nishida ||[GitHub](https://github.com/dossy007)||Ruby on Rails JavaScript|
 |サンフレッチェ大阪 ||| [@sanfrecce_osaka](https://twitter.com/sanfrecce_osaka) | Ruby on Rails |
 |はいから ||| [@sakurairo](https://twitter.com/sakurairo) | PHP NEM |
 |ツイベガ君 ||| [@tuibegakun](https://twitter.com/tuibegakun) | JavaScript NEM |
@@ -26,7 +26,7 @@
 |えば |||[@miramira1908](https://twitter.com/miramira1908)| Google Speach API Python |
 |Iwasaki |||[@keitaikowareta](https://twitter.com/keitaikowareta)| Firebase Node.js |
 |Ebio ||||Android Java|
-|さいとう ||| | Fast Fourier transform |
+|さいとう ||| | Fast Fourier Transform |
 |たけまき ||| | PHP |
 ___
 
