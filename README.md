@@ -4,7 +4,7 @@
 
 [もくdev もくもく会](https://mokudev.connpass.com/)
 
-| メンバー | 記事 | Git | Twitter | もくもく実績 | 開発したプロダクト |
+| メンバー | 記事 | Git | Twitter | もくもく実績 | プロダクト |
 |:---|:---|:---|:---|:---|:---|
 |サンフレッチェ大阪 |[Blog](http://sanfrecce-osaka.hateblo.jp/)|[GitHub](https://github.com/sanfrecce-osaka)| [@sanfrecce_osaka](https://twitter.com/sanfrecce_osaka) | Ruby on Rails | [DanimeNicoTools](http://danime-nico-tools.herokuapp.com/)|
 |shohei |[Blog](http://hobbydevelop.info/)<br>[Qiita](https://qiita.com/hukusuke1007)<br> | [GitHub](https://github.com/hukusuke1007)| [@hobbydevelop](https://twitter.com/hobbydevelop) | Swift Vue.js TypeScript Firebase NEM Ethereum | |
