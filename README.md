@@ -8,15 +8,15 @@
 | :------- | :--- | :-- | :------ | :----------- | :--------- |
 |サンフレッチェ大阪 |[Blog](http://sanfrecce-osaka.hateblo.jp/)|[GitHub](https://github.com/sanfrecce-osaka)| [@sanfrecce_osaka](https://twitter.com/sanfrecce_osaka) | Ruby on Rails | [DanimeNicoTools](http://danime-nico-tools.herokuapp.com/)|
 |Gatapon |[Qiita](https://qiita.com/rinonkia)|[GitHub](https://github.com/rinonkia)|[@rinonkia](https://twitter.com/rinonkia)| PHP laravel | [Microposts](https://herokumicrop0sts.herokuapp.com/)|
-|shohei |[Blog](http://hobbydevelop.info/)<br>[Qiita](https://qiita.com/hukusuke1007)<br> | [GitHub](https://github.com/hukusuke1007)| [@hobbydevelop](https://twitter.com/hobbydevelop) | Swift Vue.js TypeScript Firebase NEM Ethereum | |
-|まつもとかづまさ |[Qiita](https://qiita.com/kazumasamatsumo)<br> | [GitHub](https://github.com/kazumasamatsumoto)| [@kazumasamatsumo](https://twitter.com/kazumasamatsumo) | Vue.js NEM | |
+|shohei |[Blog](http://hobbydevelop.info/)<br>[Qiita](https://qiita.com/hukusuke1007)<br> | [GitHub](https://github.com/hukusuke1007)| [@hobbydevelop](https://twitter.com/hobbydevelop) | Swift Kotlin Vue.js TypeScript Firebase NEM Ethereum | |
+|まつもとかづまさ |[Qiita](https://qiita.com/kazumasamatsumo)<br> | [GitHub](https://github.com/kazumasamatsumoto)| [@kazumasamatsumo](https://twitter.com/kazumasamatsumo) | Vue.js Firebase NEM | |
 |りゅーた |[Blog](https://ryuta46.com/)<br> [Qiita](https://qiita.com/y-sakata)| [GitHub](https://github.com/ryuta46)| [@ryuta461](https://twitter.com/ryuta461) | Swift NEM | |
 |まつしん |[Blog](https://matsushin11.com/)<br> [Qiita](https://qiita.com/Matsushin) | [Github](https://github.com/Matsushin)| [@matsushin11](https://twitter.com/matsushin11) | Ruby on Rails Vue.js Nuxt.js TypeScript NEM Ethereum ||
 |Daichi |[Qiita](https://qiita.com/daichi87gi) | [Github](https://github.com/dyanagi)| [@daichi87gi](https://twitter.com/daichi87gi) | Ruby on Rails | |
 |ゼキ(yoshimoto) | [Qiita](https://qiita.com/zeki84)|[GitHub](https://github.com/zeki84)| [@zekilog](https://twitter.com/zekilog) | Ruby on Rails | |
 |Y.Otsubo|[Blog](http://gjjjjcdssvgg.hatenablog.com/)<br>[Qiita](https://qiita.com/KEIBADEIKKAKU)|[GitHub](https://github.com/oonisidesu)| [@KEIBADEIKKAKU](https://twitter.com/KEIBADEIKKAKU) | Ethereum Docker ||
 |生粋のねむらー | [Blog](http://www.lovenem.site/)|| [@lovenem_Japan](https://twitter.com/lovenem_Japan) | Python node.js Alexa Clova NEM ||
-|morifuji koudai |[Blog](https://morimori-kochan.hatenablog.com/)|| [@marooon88](https://twitter.com/marooon88)| Vue.js JavaScript PHP ||
+|morifuji koudai |[Blog](https://morimori-kochan.hatenablog.com/)|| [@marooon88](https://twitter.com/marooon88)| Vue.js JavaScript PHP AWS Lambda ||
 |やまたに | | [GitHub](https://github.com/yamatani2)| [@yamatani2](https://twitter.com/yamakume2) | Ruby on Rails ||
 |Nishida ||[GitHub](https://github.com/dossy007)||Ruby on Rails JavaScript||
 |はいから ||| [@sakurairo](https://twitter.com/sakurairo) | PHP NEM ||
@@ -28,6 +28,8 @@
 |Iwasaki |||[@keitaikowareta](https://twitter.com/keitaikowareta)| Firebase Node.js ||
 |オウルマ||| [@manganotakuto](https://twitter.com/manganotakuto) | Progate ||
 |Toshi |||[@Toshi_Bol](https://twitter.com/Toshi_Bol)|Python DeepLearning||
+|Fumi |||[@fm_nkr](https://twitter.com/fm_nkr)|Android Java||
+|くつろぐくん |||[@calmbright1](https://twitter.com/calmbright1)|Qiita||
 |Ebio ||||Android Java||
 |さいとう |||| Fast Fourier Transform ||
 |たけまき |||| PHP ||
