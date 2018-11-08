@@ -7,7 +7,8 @@
 | メンバー | 記事 | Git | Twitter | もくもく実績 | プロダクト |
 | :------- | :--- | :-- | :------ | :----------- | :--------- |
 |サンフレッチェ大阪 |[Blog](http://sanfrecce-osaka.hateblo.jp/)|[GitHub](https://github.com/sanfrecce-osaka)| [@sanfrecce_osaka](https://twitter.com/sanfrecce_osaka) | Ruby on Rails | [DanimeNicoTools](http://danime-nico-tools.herokuapp.com/)|
-|Gatapon |[Qiita](https://qiita.com/rinonkia)|[GitHub](https://github.com/rinonkia)|[@rinonkia](https://twitter.com/rinonkia)| PHP laravel | [Microposts](https://herokumicrop0sts.herokuapp.com/)|
+|Gatapon |[Qiita](https://qiita.com/rinonkia)|[GitHub](https://github.com/rinonkia)|[@rinonkia](https://twitter.com/rinonkia)| PHP Laravel | [Microposts](https://herokumicrop0sts.herokuapp.com/)|
+|はいから ||| [@sakurairo](https://twitter.com/sakurairo) | PHP NEM |[のべるば！](http://haikara.mixh.jp/index.php)|
 |shohei |[Blog](http://hobbydevelop.info/)<br>[Qiita](https://qiita.com/hukusuke1007)<br> | [GitHub](https://github.com/hukusuke1007)| [@hobbydevelop](https://twitter.com/hobbydevelop) | Swift Kotlin Vue.js TypeScript Firebase NEM Ethereum | |
 |まつもとかづまさ |[Qiita](https://qiita.com/kazumasamatsumo)<br> | [GitHub](https://github.com/kazumasamatsumoto)| [@kazumasamatsumo](https://twitter.com/kazumasamatsumo) | Vue.js Firebase NEM | |
 |りゅーた |[Blog](https://ryuta46.com/)<br> [Qiita](https://qiita.com/y-sakata)| [GitHub](https://github.com/ryuta46)| [@ryuta461](https://twitter.com/ryuta461) | Swift NEM | |
@@ -19,7 +20,6 @@
 |morifuji koudai |[Blog](https://morimori-kochan.hatenablog.com/)|| [@marooon88](https://twitter.com/marooon88)| Vue.js JavaScript PHP AWS Lambda ||
 |やまたに | | [GitHub](https://github.com/yamatani2)| [@yamatani2](https://twitter.com/yamakume2) | Ruby on Rails ||
 |Nishida ||[GitHub](https://github.com/dossy007)||Ruby on Rails JavaScript||
-|はいから ||| [@sakurairo](https://twitter.com/sakurairo) | PHP NEM ||
 |ツイベガ君 ||| [@tuibegakun](https://twitter.com/tuibegakun) | JavaScript NEM ||
 |Yuichi Matsui ||| [@Yuichi_0427](https://twitter.com/Yuichi_0427)| Python ||
 |HitomiTakeda ||| [@hitomi_takeda](https://twitter.com/hitomi_takeda)| Python DeepLearning ||
@@ -33,7 +33,12 @@
 |Ebio ||||Android Java||
 |さいとう |||| Fast Fourier Transform ||
 |たけまき |||| PHP ||
-|hiroking ||||||
-|たかし ||||||
-
+|hiroking ||||Ruby on Rails||
+|うっちー||||docker||
+|SoheiYagi||||Python||
+|むらじゅん||||graphQL||
+|sanou||||音声認識 チャットボット||
+|yuri||||Ruby on Rails||
+|tomoya||||Linux||
+|たかし||||||
 ---
