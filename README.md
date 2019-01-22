@@ -40,5 +40,4 @@
 |sanou||||音声認識 チャットボット||
 |yuri||||Ruby on Rails||
 |tomoya||||Linux||
-|たかし||||||
 ---
