@@ -6,13 +6,13 @@
 
 | メンバー | 記事 | Git | Twitter | もくもく実績 | プロダクト |
 | :------- | :--- | :-- | :------ | :----------- | :--------- |
+|shohei |[Blog](http://hobbydevelop.info/)<br>[Qiita](https://qiita.com/hukusuke1007)<br> | [GitHub](https://github.com/hukusuke1007)| [@hobbydevelop](https://twitter.com/hobbydevelop) | Swift Kotlin Vue.js TypeScript Firebase NEM Ethereum |[FiFiC](https://www.fific.jp/) |
 |サンフレッチェ大阪 |[Blog](http://sanfrecce-osaka.hateblo.jp/)|[GitHub](https://github.com/sanfrecce-osaka)| [@sanfrecce_osaka](https://twitter.com/sanfrecce_osaka) | Ruby on Rails | [DanimeNicoTools](http://danime-nico-tools.herokuapp.com/)|
 |Gatapon |[Qiita](https://qiita.com/rinonkia)|[GitHub](https://github.com/rinonkia)|[@rinonkia](https://twitter.com/rinonkia)| PHP Laravel | [Microposts](https://herokumicrop0sts.herokuapp.com/)|
 |まつもとかづまさ |[Qiita](https://qiita.com/kazumasamatsumo)<br> | [GitHub](https://github.com/kazumasamatsumoto)| [@kazumasamatsumo](https://twitter.com/kazumasamatsumo) | Vue.js Firebase NEM | [3 Step Wallet](https://3step.app/)|
 |りゅーた |[Blog](https://ryuta46.com/)<br> [Qiita](https://qiita.com/y-sakata)| [GitHub](https://github.com/ryuta46)| [@ryuta461](https://twitter.com/ryuta461) | Swift Flutter NEM |[RaccoonWallet](https://itunes.apple.com/jp/app/raccoonwallet/id1437034062?mt=8)|
 |まつしん |[Blog](https://matsushin11.com/)<br> [Qiita](https://qiita.com/Matsushin) | [Github](https://github.com/Matsushin)| [@matsushin11](https://twitter.com/matsushin11) | Ruby on Rails Vue.js Nuxt.js TypeScript NEM Ethereum |[Qiitan](http://qiitan-prd.herokuapp.com/)|
 |はいから ||| [@sakurairo](https://twitter.com/sakurairo) | PHP NEM |[のべるば！](http://haikara.mixh.jp/index.php)|
-|shohei |[Blog](http://hobbydevelop.info/)<br>[Qiita](https://qiita.com/hukusuke1007)<br> | [GitHub](https://github.com/hukusuke1007)| [@hobbydevelop](https://twitter.com/hobbydevelop) | Swift Kotlin Vue.js TypeScript Firebase NEM Ethereum | |
 |Daichi |[Qiita](https://qiita.com/daichi87gi) | [Github](https://github.com/dyanagi)| [@daichi87gi](https://twitter.com/daichi87gi) | Ruby on Rails | |
 |ゼキ(yoshimoto) | [Qiita](https://qiita.com/zeki84)|[GitHub](https://github.com/zeki84)| [@zekilog](https://twitter.com/zekilog) | Ruby on Rails | |
 |Y.Otsubo|[Blog](http://gjjjjcdssvgg.hatenablog.com/)<br>[Qiita](https://qiita.com/KEIBADEIKKAKU)|[GitHub](https://github.com/oonisidesu)| [@KEIBADEIKKAKU](https://twitter.com/KEIBADEIKKAKU) | Ethereum Docker ||
